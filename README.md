@@ -1,2 +1,2 @@
-# projeto-site
- Projeto de um site criando duranto o cruso de Git e GithHub
+# Projeto-Site
+ Site feito com Python e Flask inteiramente do zero
